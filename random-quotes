@@ -1,0 +1,9 @@
+import random
+
+quotes = [
+    "Keep pushing forward!",
+    "Success comes to those who hustle.",
+    "Never stop learning."
+]
+
+print(random.choice(quotes))
